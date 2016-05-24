@@ -1,6 +1,3 @@
-#!/bin/python2
-# -*- coding: utf-8 -*-
-
 # ex4: Variables And Names
 
 # number of cars

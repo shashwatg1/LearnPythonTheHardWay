@@ -1,7 +1,4 @@
-#!/bin/python2
-# -*- coding: utf-8 -*-
-
-# Find something you need to calculate and write a new .py file that
+# ex3: Find something you need to calculate and write a new .py file that
 # does it.
 
 # integer

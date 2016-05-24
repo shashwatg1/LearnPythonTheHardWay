@@ -1,10 +1,7 @@
-#!/bin/python2
-# -*- coding: utf-8 -*-
-
 # ex5: More Variables and Printing
 
 name = 'Zed A. Shaw'
-age = 35       # not a lie
+age = 35   # not a lie
 height = 74   # inches
 weight = 180  # lbs
 eyes = "Blue"
@@ -23,7 +20,7 @@ print "His teeth are usually %s depending on the coffee." % (teeth)
 print 'If I add %d, %d and %d I get %d.' % (age, height, weight, age + height + weight)
 
 # try more format characters
-my_greeting = "Hello,\t"
+my_greeting = "Hello,\t \"hbhh \'jnjbbh"
 my_first_name = 'Joseph'
 my_last_name = 'Pan'
 my_age = 24

@@ -1,15 +1,12 @@
-#!/bin/python2
-# -*- coding: utf-8 -*-
-
 # ex3: Numbers and Math
 
 # Print "I will now count my chickens:"
 print "I will now count my chickens:"
 
 # Print the number of hens
-print "Hens", 25 + 30.0 / 6
+print "Hens", 25 + 30.00 / 6
 # Print the number of roosters
-print "Roosters", 100 - 25 * 3 * 4
+print "Roosters", 100 - 25 * 3 * 4,"hi",5
 
 # Print "Now I will count the eggs:"
 print "Now I will count the eggs:"
